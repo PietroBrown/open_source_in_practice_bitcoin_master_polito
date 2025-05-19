@@ -6,10 +6,11 @@
 - Improve overall layout readability
 
 ## Diagram
-![Correct_Image](\img\Correct_Image.jpg)
+![Correct_Image](Correct_Image.jpg)
 
 - Bullet one
-- bullet two 
+- bullet two  
+
 Another line with no spacing
 
 ## Conclusion
