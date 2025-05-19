@@ -6,7 +6,7 @@
 - Improve overall layout readability
 
 ## Diagram
-![Correct_Image](../img/Correct_Image.jpg)
+![Correct_Image](../img/Correct_Image.png)
 
 - Bullet one
 - bullet two  
